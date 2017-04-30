@@ -1,1 +1,1 @@
-# kodilla-10.4 - Programowanie obiektowe w JavaScripcie
+# Programowanie obiektowe w JavaScripcie
